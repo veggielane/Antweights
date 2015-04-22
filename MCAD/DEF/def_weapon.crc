@@ -1,0 +1,19 @@
+﻿  MODEL DEF_WEAPON :
+ 
+
+  1 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 3
+
+Feature number 8 (COMPONENT, id = 284) 
+  in model DEF_WEAPON refers to:
+
+Feature number 9 (EXTRUDE_1, id = 66) 
+  in model DEF_WEAPON_MOUNT refers to:
+
+Feature number 8 (COMPONENT, id = 284) 
+  in model DEF_WEAPON - circle closed.
+
